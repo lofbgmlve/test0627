@@ -7,4 +7,6 @@ public interface testDao {
 	public String newBranchTest2();
 	
 	public void testMerge();  //master - master
+	
+	
 }
