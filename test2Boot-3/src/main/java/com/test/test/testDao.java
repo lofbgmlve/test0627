@@ -6,5 +6,5 @@ public interface testDao {
 	
 	public String newBranchTest2();
 	
-	public void testMege();
+	public void testMege();  //master - master
 }
