@@ -8,5 +8,5 @@ public interface testDao {
 	
 	public void testMerge();  //master - master
 	
-	
+	public void testTest2();  //rebase
 }
