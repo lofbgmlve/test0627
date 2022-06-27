@@ -5,4 +5,6 @@ public interface testDao {
 	public void testGit();
 	
 	public String newBranchTest2();
+	
+	public void testMege();
 }
