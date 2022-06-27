@@ -11,4 +11,7 @@ public interface testDao {
 	public void testTest2();  //rebase
 	
 	//success
+	
+	//newBranch and master test success 
+	//and project git clone
 }
